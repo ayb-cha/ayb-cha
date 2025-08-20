@@ -1,5 +1,5 @@
 ## About Me
 
-I am a software engineer with five years of involvement in the industry, collecting experience in computer science, computer networking, and web engineering.
+I am a software engineer with six years of involvement in the industry, collecting experience in computer science, computer networking, and web engineering.
 
 I love tinkering with computer hardware, Linux, and pool games.
